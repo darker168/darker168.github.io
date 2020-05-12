@@ -1,0 +1,3 @@
+【网站】http://www.crdg01.cc【网站】【全局】var d=document;var s=d.createElement('script');s.setAttribute('src', 'https://youname/jsKillAD.user.js');d.head.appendChild(s);【全局】
+
+【域名】m.meijuniao.com【域名】【元素】guestbook,globalIcon userIcon,aHeaderFun,aHeaderSearch top_search_btn,logo,header clearfix,footer_nav,fBox,list_nav,app__download,@ID(cambrian0)【元素】【js】document.body.style.marginTop='-52px';【js】
